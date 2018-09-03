@@ -1,0 +1,12 @@
+{
+  "name": "creator-of-table",
+  "version": "1.0.0",
+  "description": "This package allows you to create multiplication tables and export them to a plain text file",
+  "main": "app.js",
+  "author": "SackmannB",
+  "license": "GPL",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "yargs": "^12.0.1"
+  }
+}
