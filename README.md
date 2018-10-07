@@ -1,6 +1,5 @@
 # Multiplication table
-Node Command line app
-This app generates a multiplication table in a .txt file
+Node Command line app, this app generates a multiplication table in a .txt file.
 This is a basic app was build with node and yargs
 
 # INSTALL
